@@ -12,7 +12,7 @@ public class DataTypes
     {
         int i =10;
         double f = 9.5;
-       f +=i;
+        f +=i;
         boolean flag = true;
         flag = !flag;
 
